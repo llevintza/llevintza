@@ -1,4 +1,4 @@
-# Leonte Levinta 👋
+# Leo Levintza 👋
 
 Principal Software Engineer · Distributed Systems · Cloud-Native Systems · New York Metro Area
 
