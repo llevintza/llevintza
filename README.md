@@ -1,45 +1,55 @@
-# [YOUR NAME] 👋
+# Leonte Levinta 👋
 
-[ONE-LINE IDENTITY STATEMENT — e.g. "Senior Software Engineer building distributed systems."] · [CITY, TIMEZONE — optional]
+Principal Software Engineer · Distributed Systems · Cloud-Native Systems · New York Metro Area
 
-[1-2 SENTENCE SUMMARY — who you are professionally and what you care about.]
+I build distributed, cloud-native backend systems, and lately I've been embedding agentic AI tooling (Claude Code, GitHub Copilot CLI, Sourcegraph Cody) directly into the SDLC to accelerate legacy system discovery and modernization.
 
 ## 🔭 Current focus
 
-- [WHAT YOU'RE CURRENTLY WORKING ON]
-- [WHAT YOU'RE CURRENTLY LEARNING]
-- [WHAT YOU'RE LOOKING TO COLLABORATE ON OR OPEN TO]
-- [ANYTHING ELSE WORTH SURFACING]
+- Embedding agentic AI tools into the SDLC to compress legacy-system discovery and documentation from months to weeks
+- Distributed systems and cloud-native architecture for backend platforms at scale
+- Exploring AI-assisted code review, automated documentation generation, and agentic workflow design
 
 ## 🛠️ Skills & tech stack
 
+**Agentic AI tools**
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-000000?style=flat-square)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
+
 **Languages**
 
-![Language1](https://img.shields.io/badge/-Language1-000000?style=flat-square)
-![Language2](https://img.shields.io/badge/-Language2-000000?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![F#](https://img.shields.io/badge/-F%23-378BBA?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Frameworks**
+**Cloud & infra**
 
-![Framework1](https://img.shields.io/badge/-Framework1-000000?style=flat-square)
-![Framework2](https://img.shields.io/badge/-Framework2-000000?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Cloud & Infra**
+## 📌 Highlights
 
-![Cloud1](https://img.shields.io/badge/-Cloud1-000000?style=flat-square)
-![Tool1](https://img.shields.io/badge/-Tool1-000000?style=flat-square)
-
-## 📌 Highlighted projects
-
-- [PROJECT 1 NAME](https://github.com/llevintza/REPO1) — [one-sentence value statement]
-- [PROJECT 2 NAME](https://github.com/llevintza/REPO2) — [one-sentence value statement]
-- [PROJECT 3 NAME](https://github.com/llevintza/REPO3) — [one-sentence value statement]
+- **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC at Lab49.
+- **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance at EPAM.
+- **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements at EPAM.
+- **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x at Endava.
 
 ## 📫 Contact & links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_ME)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://REPLACE_ME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:REPLACE_ME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/llevintza/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:llevintza@gmail.com)
 
 ---
 
-⚡ [OPTIONAL FUN FACT / CLOSING LINE]
+⚡ Fluent in English, Romanian, and Russian; basic Italian and German.
