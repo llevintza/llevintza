@@ -45,10 +45,10 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 
 ## 📌 Highlights
 
-- **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC at Lab49.
-- **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance at EPAM.
-- **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements at EPAM.
-- **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x at Endava.
+- **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC.
+- **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance.
+- **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements.
+- **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x.
 
 ## 📫 Contact & links
 
