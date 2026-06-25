@@ -38,6 +38,11 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+**Cloud dev environments**
+
+![Ona (Gitpod)](https://img.shields.io/badge/-Ona%20(Gitpod)-FF8A00?style=flat-square&logo=gitpod&logoColor=white)
+![Coder](https://img.shields.io/badge/-Coder-1B1B1B?style=flat-square&logo=coder&logoColor=white)
+
 ## 📌 Highlights
 
 - **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC at Lab49.
