@@ -1,4 +1,4 @@
-# Leo Levintza 👋
+# Leonte Levinta 👋
 
 Principal Software Engineer · Distributed Systems · Cloud-Native Systems · New York Metro Area
 
@@ -8,18 +8,15 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 
 - Embedding agentic AI tools into the SDLC to compress legacy-system discovery and documentation from months to weeks
 - Distributed systems and cloud-native architecture for backend platforms at scale
-- Exploring AI-assisted code review, automated documentation generation, and agentic workflow design
 
 ## 🛠️ Skills & tech stack
 
-**AI & dev tools**
+**Agentic AI tools**
 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-000000?style=flat-square)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
-![Ona (Gitpod)](https://img.shields.io/badge/-Ona%20(Gitpod)-FF8A00?style=flat-square&logo=gitpod&logoColor=white)
-![Coder](https://img.shields.io/badge/-Coder-1B1B1B?style=flat-square&logo=coder&logoColor=white)
 
 **Languages**
 
@@ -31,33 +28,21 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Runtimes & frameworks**
+**Cloud & infra**
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Apollo Federation](https://img.shields.io/badge/-Apollo%20Federation-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
-
-**Cloud & distributed systems**
-
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
-**Observability**
-
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ## 📌 Highlights
 
-- **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC.
-- **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance.
-- **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements.
-- **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x.
+- **AI-assisted legacy discovery** — compressed legacy system discovery from 3-6 months to 6 weeks by embedding agentic AI tools into the SDLC at Lab49.
+- **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance at EPAM.
+- **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements at EPAM.
+- **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x at Endava.
 
 ## 📫 Contact & links
 
