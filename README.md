@@ -8,7 +8,6 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 
 - Embedding agentic AI tools into the SDLC to compress legacy-system discovery and documentation from months to weeks
 - Distributed systems and cloud-native architecture for backend platforms at scale
-- Exploring AI-assisted code review, automated documentation generation, and agentic workflow design
 
 ## 🛠️ Skills & tech stack
 
