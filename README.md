@@ -1,6 +1,6 @@
 # Leo Levintza 👋
 
-Principal Software Engineer · Distributed Systems · Cloud-Native Systems · New York Metro Area
+Principal Software Engineer · Distributed Systems · Cloud-Native Backends · Agentic AI Tooling & AI-Augmented SDLC · New York Metro Area
 
 I build distributed, cloud-native backend systems, and lately I've been embedding agentic AI tooling (Claude Code, GitHub Copilot CLI, Sourcegraph Cody) directly into the SDLC to accelerate legacy system discovery and modernization.
 
@@ -57,6 +57,8 @@ I build distributed, cloud-native backend systems, and lately I've been embeddin
 - **Kafka-based EventStore replication** — designed and built a data replication tool achieving 5k events/sec per deployed instance.
 - **Service-splitting & observability overhaul** — led a data-graph service-splitting initiative cutting response time by 40%, plus OpenTelemetry-based observability improvements.
 - **OOXML library** — built a PPT-generation library that cut slide-prep time by 100x.
+- **@llevintza/fastify-prometheus-metrics** — open-source Fastify plugin (MIT) for automatic Prometheus HTTP metrics with optional AWS CloudWatch bridge; v1.0.2, 29 PRs merged.
+- **aws-config-service** — multi-tenant configuration REST API with a three-layer Fastify / DynamoDB / filesystem architecture and auto-generated Swagger docs; v1.0.3, 98 commits, 27 PRs merged.
 
 ## 📫 Contact & links
 
