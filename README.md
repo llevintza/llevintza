@@ -7,18 +7,7 @@ I design and build distributed, cloud-native backend systems, most recently for 
 ## Now
 
 - Embedding agentic AI into the SDLC: code-review agents, agent evaluation frameworks, MCP servers and Claude Agent SDK pipelines
-- Founding and architecting open-source platforms in Go, TypeScript and Python (below)
-
-## Building
-
-| Repo | What | Stack |
-|---|---|---|
-| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
-| [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
-| [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
-| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
-| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch |
-| [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI |
+- Founding and architecting open-source platforms in Go, TypeScript and Python (see Building)
 
 ## Selected work
 
@@ -89,6 +78,18 @@ I design and build distributed, cloud-native backend systems, most recently for 
 ## Education
 
 BA, Computer Science — Stefan cel Mare University of Suceava (2008–2012)
+
+## Building
+
+| Repo | What | Stack |
+|---|---|---|
+| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
+| [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
+| [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
+| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
+| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch |
+| [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI |
+
 
 ## Contact
 
