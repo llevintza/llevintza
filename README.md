@@ -84,7 +84,7 @@ BA, Computer Science — Stefan cel Mare University of Suceava (2008–2012)
 | Repo | What | Stack |
 |---|---|---|
 | [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright |
-| hedge-fund-market-data (private) | Market-data platform PoC: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET |
+| hedge-fund-market-data (private) | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET |
 | [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
 | [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
 | [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
