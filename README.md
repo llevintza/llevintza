@@ -83,13 +83,14 @@ BA, Computer Science — Stefan cel Mare University of Suceava (2008–2012)
 
 | Repo | What | Stack |
 |---|---|---|
-| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
+| [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright |
+| hedge-fund-market-data (private) | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET |
 | [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
 | [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
-| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
+| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
 | [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch |
+| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
 | [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI |
-
 
 ## Contact
 
