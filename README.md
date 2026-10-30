@@ -81,16 +81,20 @@ BA, Computer Science — Stefan cel Mare University of Suceava (2008–2012)
 
 ## Building
 
-| Repo | What | Stack |
-|---|---|---|
-| [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright |
-| hedge-fund-market-data (private) | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET |
-| [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
-| [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
-| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
-| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch |
-| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
-| [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI |
+| Repo | What | Stack | Access |
+|---|---|---|---|
+| instrument-price-dashboard (private) | Dashboard over daily closing prices: a layered .NET 10 API serving price series with return, volatility and drawdown stats, and a React front end for search, charting and ticker comparison. Milestones M1-M3 shipped | .NET 10 · React 19 · TanStack Query · Recharts · SignalR · Playwright | On request |
+| allocator-memo-builder (private) | Fund-screening and memo-drafting tool: an LLM drafts the memo and a deterministic verifier traces every claim back to its source cell. Working MVP (v0.1.0) | Python · Streamlit · pandas · Pydantic · Claude API | On request |
+| [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright | Public |
+| [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API | Public |
+| hedge-fund-market-data (private) | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET | On request |
+| [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright | Public |
+| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI | Public |
+| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch | Public |
+| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP | Public |
+| [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI | Public |
+
+Private repos: email me your GitHub username for read-only access.
 
 ## Contact
 
