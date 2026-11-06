@@ -1,6 +1,6 @@
 # Leo Levintza
 
-Principal Software Engineer · Distributed Systems · Cloud-Native Backends · Agentic AI Tooling & AI-Augmented SDLC · New York Metro Area
+Principal Software Engineer · Distributed Systems · Cloud-Native Backends · Agentic AI Tooling &amp; AI-Augmented SDLC · New York Metro Area
 
 I design and build distributed, cloud-native backend systems, most recently for buy-side firms: a quantitative hedge fund, a global alternative asset manager, and a large US asset manager. Lately I embed agentic AI tooling (Claude Code, GitHub Copilot CLI, Sourcegraph Cody) into the SDLC: legacy discovery, documentation, code-review agents, and evaluation frameworks for AI-assisted delivery.
 
@@ -20,7 +20,7 @@ I design and build distributed, cloud-native backend systems, most recently for 
 
 ## Stack
 
-**AI & agent tooling**
+**AI &amp; agent tooling**
 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square)
 ![Claude Agent SDK](https://img.shields.io/badge/-Claude%20Agent%20SDK-000000?style=flat-square)
@@ -42,7 +42,7 @@ I design and build distributed, cloud-native backend systems, most recently for 
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**Runtimes & frameworks**
+**Runtimes &amp; frameworks**
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -51,7 +51,7 @@ I design and build distributed, cloud-native backend systems, most recently for 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Cloud & distributed systems**
+**Cloud &amp; distributed systems**
 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square)
@@ -72,7 +72,7 @@ I design and build distributed, cloud-native backend systems, most recently for 
 
 ## Certifications
 
-- Anthropic Education: Building with the Claude API · Claude Code in Action · Introduction to Agent Skills · Introduction to Model Context Protocol · AI Fluency: Framework & Foundations (2026)
+- Anthropic Education: Building with the Claude API · Claude Code in Action · Introduction to Agent Skills · Introduction to Model Context Protocol · AI Fluency: Framework &amp; Foundations (2026)
 - LangChain Academy: Introduction to LangGraph (2024)
 
 ## Education
@@ -81,20 +81,26 @@ BA, Computer Science — Stefan cel Mare University of Suceava (2008–2012)
 
 ## Building
 
-| Repo | What | Stack |
-|---|---|---|
-| [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright |
-| hedge-fund-market-data (private) | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2 | Python · dbt · Airflow · DuckDB · Snowflake · .NET |
-| [unlistd](https://github.com/llevintza/unlistd) | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright |
-| [energlens](https://github.com/llevintza/energlens) | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API |
-| [openswim](https://github.com/llevintza/openswim) | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR | Go · PostgreSQL · Next.js · OpenAPI |
-| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus) | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT | TypeScript · Fastify · Prometheus · CloudWatch |
-| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent) | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate | Python · Claude Agent SDK · MCP |
-| [aws-config-service](https://github.com/llevintza/aws-config-service) | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3 | TypeScript · Fastify · DynamoDB · OpenAPI |
+
+| Repo                                                                                                                                                        | What                                                                                                                                                                                                                   | Stack                                                                     | Access     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------- |
+| instrument-price-dashboard (private)<br><br>**Live website**: [here](https://llevintza.github.io/instrument-price-dashboard/)                                       | Dashboard over daily closing prices: a layered .NET 10 API serving price series with return, volatility and drawdown stats, and a React front end for search, charting and ticker comparison. Milestones M1-M3 shipped | .NET 10 · React 19 · TanStack Query · Recharts · SignalR · Playwright     | On request |
+| allocator-memo-builder (private)                                                                                                                            | Fund-screening and memo-drafting tool: an LLM drafts the memo and a deterministic verifier traces every claim back to its source cell. Working MVP (v0.1.0)                                                            | Python · Streamlit · pandas · Pydantic · Claude API                       | On request |
+| [credit-desk-analytics](https://github.com/llevintza/credit-desk-analytics)<br><br>**Live website**: [here](https://llevintza.github.io/credit-desk-analytics/) | Front-office analytics for a structured-credit desk: very large position grids, fund performance and deal exploration. Built spec-first and tuned for load and render speed. Phases 0-6 shipped                        | .NET 10 · Angular · Postgres · AG Grid · Dapper/EF Core · Playwright      | Public     |
+| [energlens](https://github.com/llevintza/energlens)<br><br>**Live website**: [here](https://llevintza.github.io/energlens/)                                         | Utility-bill analytics across properties, with a Claude-powered PDF extraction CLI. Zero-cost demo deployment                                                                                                          | Python/FastAPI · SQLAlchemy 2.0 · React 19 · Claude API                   | Public     |
+| hedge-fund-market-data (private)                                                                                                                            | Market-data platform: Python ingestion onto a canonical instrument model, a dbt medallion warehouse (DuckDB, Snowflake-ready) and Airflow batch orchestration. Phase 2                                                 | Python · dbt · Airflow · DuckDB · Snowflake · .NET                        | On request |
+| [unlistd](https://github.com/llevintza/unlistd)                                                                                                             | Self-hosted data-broker PII removal pipeline that keeps profiles, keys and audit trails in your own AWS account. Early MVP                                                                                             | TypeScript · Next.js · Prisma · AWS CDK · SQS/Lambda/Fargate · Playwright | Public     |
+| [openswim](https://github.com/llevintza/openswim)                                                                                                           | Free, ad-free operations platform for small-town swim teams. Phase 0: Go/Postgres API foundations, domain model and observability contract fixed by ADR                                                                | Go · PostgreSQL · Next.js · OpenAPI                                       | Public     |
+| [aws-fastify-prometheus](https://github.com/llevintza/aws-fastify-prometheus)                                                                               | `@llevintza/fastify-prometheus-metrics`: automatic Prometheus HTTP metrics with an optional CloudWatch bridge. v1.0.2, MIT                                                                                             | TypeScript · Fastify · Prometheus · CloudWatch                            | Public     |
+| [claude-codebase-agent](https://github.com/llevintza/claude-codebase-agent)                                                                                 | Claude Agent SDK CLI that explores unfamiliar codebases and implements features behind a human approval gate                                                                                                           | Python · Claude Agent SDK · MCP                                           | Public     |
+| [aws-config-service](https://github.com/llevintza/aws-config-service)                                                                                       | Multi-tenant configuration REST API with a Fastify / DynamoDB / filesystem layered design. v1.0.3                                                                                                                      | TypeScript · Fastify · DynamoDB · OpenAPI                                 | Public     |
+
+
+Private repos: email me your GitHub username for read-only access.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/llevintza/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:llevintza@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
 Fluent in English, Romanian, and Russian; basic Italian and German.
