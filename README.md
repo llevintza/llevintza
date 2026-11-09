@@ -102,5 +102,9 @@ Private repos: email me your GitHub username for read-only access.
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![Signal](https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#eu/4LsDNOHvg6ZrCpIcI71XTx9_pUKogbAadWBBTc9SV1zDAfQg_LNHX4qv9deaqmLJ)
+[![Book a Zoom call](https://img.shields.io/badge/-Book%20a%20Zoom%20call-0B5CFF?style=flat-square&logo=zoom&logoColor=white)](https://scheduler.zoom.us/llevintza/availability)
+
+<a href="https://signal.me/#eu/4LsDNOHvg6ZrCpIcI71XTx9_pUKogbAadWBBTc9SV1zDAfQg_LNHX4qv9deaqmLJ"><img src="assets/signal-qr.png" alt="Signal QR code for llevintza.67" width="160"></a>
 
 Fluent in English, Romanian, and Russian; basic Italian and German.
